@@ -17,3 +17,4 @@ while True:
             print("a跟b一樣大")
     except Exception as e:
         print(f"輸入錯誤,請重新輸入! ({e})")
+print("程式結束")
