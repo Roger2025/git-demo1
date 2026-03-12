@@ -107,3 +107,6 @@ git remote -v
 
 29.推送到雲端
 git push
+
+30.複製專案
+git clone https://github.com/Roger2025/git-demo1.git
