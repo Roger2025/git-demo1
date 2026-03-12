@@ -110,3 +110,7 @@ git push
 
 30.複製專案
 git clone https://github.com/Roger2025/git-demo1.git
+
+31.git checkout -b test (新增切換一次完成)
+- git branch test
+0git checkout test
